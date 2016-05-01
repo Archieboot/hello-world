@@ -1,3 +1,3 @@
 # hello-world
 
-this the first readme.md file
+this is the first readme.md file
